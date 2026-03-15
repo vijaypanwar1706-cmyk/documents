@@ -2,8 +2,6 @@ Raspberry PI 4 B me raspberry pi ka 64bit OS installed hai aur ye wala kernel in
 
 
 
-
-
 Bahut badhiya 👍
 Aap already **kernel driver level** pe kaam kar rahe ho (aur aapka goal audio drivers deep samajhna hai), isliye main aapko ek **proper structured deep syllabus** bana raha hoon — strictly **Bootup phase tak hi** — jahan tak ALSA + ASoC + WM8960 initialize ho jata hai.
 
